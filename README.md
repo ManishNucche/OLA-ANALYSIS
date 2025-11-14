@@ -71,6 +71,28 @@ The goal is to help ride-hailing businesses improve **driver allocation, cancell
 
 ## 📸 Dashboard Preview
 
-<img width="1478" height="828" alt="Screenshot 2025-07-10 001609" src="https://github.com/user-attachments/assets/366133cb-99d1-4043-b6f0-a541664bcdde" />
+<img width="1471" height="829" alt="Screenshot 2025-07-10 001424" src="https://github.com/user-attachments/assets/9ea6fdd9-8565-453a-aaa5-6113a3d83f6d" />
 
+---
 
+<img width="1472" height="832" alt="Screenshot 2025-07-10 001458" src="https://github.com/user-attachments/assets/9fd4c7d4-ffcb-4400-b211-e647c9c99b9c" />
+
+---
+
+<img width="1473" height="827" alt="Screenshot 2025-07-10 001519" src="https://github.com/user-attachments/assets/017cb2af-0ac3-42cd-ae33-7ab73aea870c" />
+
+---
+
+<img width="1472" height="833" alt="Screenshot 2025-07-10 001544" src="https://github.com/user-attachments/assets/4ab39348-bece-4ce2-93c8-61bc530d784e" />
+
+---
+
+<img width="1478" height="828" alt="Screenshot 2025-07-10 001609" src="https://github.com/user-attachments/assets/64ec0e43-8b91-46ee-ad38-e5dd9dba03b9" />
+
+---
+
+👨‍💻 Author
+Manish Nucche
+Aspiring Data Analyst
+GitHub: https://github.com/ManishNucche
+LinkedIn: https://www.linkedin.com/in/manishnucche/
